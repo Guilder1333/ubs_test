@@ -1,0 +1,10 @@
+1. I suppose having maven dependencies doesn't count as manual download.
+2. Added row numbers for easier understanding of row number.
+3. Rules are made flexible for a little bit.
+4. Games usually have different kind of code quality, targeting better performance. As a result exceptions are usually avoided. So code was written having some kind of API in mind.
+5. Of course, for a game would be good to have an AI player and a network player.
+6. Add replay player for test purposes. It reads input from file to repeat some bugs previously found by players.
+7. Add different types of UI for different platforms.
+8. Add integration tests.
+9. Maybe modules for different kinds of implementations.
+10. Maybe separate backend from UI, if there are such requirements.
